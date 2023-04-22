@@ -8,10 +8,10 @@ import {
   import { v4 as uuid } from "uuid";
 
   const s3 = new S3Client({
-    region: "eu-north-1",
+    region: "YOUR_REGION",
     credentials: {
-      accessKeyId: "AKIAUO3URPKO2C2LLVBX",
-      secretAccessKey: "0tDbGq62xYZM594q3KD8gR//P9VYeLuT4D9XJ2NG",
+      accessKeyId: "YOUR_ACCESS_KEY_ID",
+      secretAccessKey: "YOUR_SECRET_ACCESS_KEY",
     },
   });
   const BUCKET = process.env.BUCKET;
