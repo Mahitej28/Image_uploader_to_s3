@@ -17,7 +17,7 @@ Image Uploader to S3 is a web application built using React and Node.js that all
 <b><i>
 Note: This is a general overview of the steps required to clone and work with the Image Uploader to S3 project. The exact steps may vary depending on your development environment and setup.
 </i>
-<b>
+</b>
 
 
 ## 👀 Screenshots
