@@ -22,7 +22,12 @@ Note: This is a general overview of the steps required to clone and work with th
 
 ## 👀 Screenshots
 <div align="center">
-<img src ="/assets/todo.png" width="700px">
+<img src ="/assests/website.png" width="700px">
+<br><i>Frontend</br>
+<br>
+<img src ="/assests/aws.png" width="700px"> 
+<br>AWS S3 Bucket</i></br>
+
 </div>
 
 ## ✍ Author
